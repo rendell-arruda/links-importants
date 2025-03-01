@@ -17,7 +17,7 @@ Apresentação no Meetup da FinOps Foundation sobre como automações podem redu
 <!-- 🎥 [Vídeo](#) -  -->
 
 ### 3️⃣ Atualização de EBS GP2 para GP3
-🔗 <a href="https://github.com/rendell-arruda/aws-gp2-gp3" target="_blank">Repo - GitHub Lucas Chiaratti</a>  
+🔗 <a href="https://github.com/lchiaratti/aws-gp2-gp3" target="_blank">Repo - GitHub Lucas Chiaratti</a>  
 
 🎥 <a href="https://www.youtube.com/watch?v=KjHrURgJEeA" target="_blank">Vídeo - Atualizando seus Volumes EBS na AWS</a>  
 
