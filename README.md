@@ -39,3 +39,9 @@ Apresentação no Meetup da FinOps Foundation sobre como automações podem redu
 ### 6️⃣ Tagueamento em Massa para Redução de Toil
 🔗 <a href="https://github.com/rendell-arruda/python-to-aws/tree/main/07-tag_all_services" target="_blank">Repo - Tag all services</a>  
 <!-- 🎥 [Vídeo](#)   -->
+
+
+## 📂 Artigos e ferramentas
+🔗 <a href="https://newsletter.finopsweekly.com/p/finops-as-code" target="_blank">FinOps As Code - How Engineers will take Action in FinOps - Victor Garcia</a>  
+🔗 <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/everything-is-better-as-code-using-finops-to-manage-cloud-costs" target="_blank">Everything is better as code: Using FinOps to manage cloud costs - McKinsey& Company</a>  
+🔗 <a href="https://www.infracost.io/glossary/finops-as-code/" target="_blank">InfraCost - Impacto do custo nos códigos</a>  
