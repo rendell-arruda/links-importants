@@ -26,6 +26,7 @@ Apresentação no Meetup da FinOps Foundation sobre como automações podem redu
 
 🎥 <a href="https://www.youtube.com/watch?v=zbMRXLUttoU" target="_blank">Vídeo - Automatizando a deleção de AWS EBS Snapshots</a>  
 
+
 ### 5️⃣ Combo S3
 #### 5️⃣.1️⃣ Revisão de Lifecycle Policy em Buckets S3
 🔗 <a href="https://github.com/rendell-arruda/bucket_s3_without_lifecycle" target="_blank">Repositório - Bucket without lifecycle</a>  
@@ -39,6 +40,11 @@ Apresentação no Meetup da FinOps Foundation sobre como automações podem redu
 ### 6️⃣ Tagueamento em Massa para Redução de Toil
 🔗 <a href="https://github.com/rendell-arruda/python-to-aws/tree/main/07-tag_all_services" target="_blank">Repo - Tag all services</a>  
 <!-- 🎥 [Vídeo](#)   -->
+
+### 7️⃣ Tierização de EBS Snapshot
+🔗 <a href="https://github.com/rendell-arruda/snapshot-archive/tree/main" target="_blank">Repo - Snapshot-archive </a>  
+🎥 <a href="https://www.youtube.com/watch?v=ht2ZvUW2Aqw" target="_blank">Vídeo - AWS + Python: Automatize a mudança de tier de snapshots EBS
+</a>  
 
 
 ## 📂 Artigos e ferramentas
